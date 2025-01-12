@@ -1,5 +1,3 @@
-"use client";
-
 import { navItems } from "@/data";
 
 import dynamic from "next/dynamic";
